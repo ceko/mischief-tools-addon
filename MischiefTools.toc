@@ -1,0 +1,9 @@
+## Interface: 11304
+## Title: Mischief Tools
+## Author: Ceko
+## SavedVariables: MischiefToolsPriority
+## Version: .1
+
+init.lua
+json.lua
+main.lua
